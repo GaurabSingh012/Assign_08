@@ -1,4 +1,3 @@
-package Assign_08;
 
 /*
  *  NAME : Gaurab Kushwaha
@@ -6,10 +5,9 @@ package Assign_08;
  *  BRANCH : AIML (A2)
  * 
  */
-import java.util.*;
-
 import exceptions.CustomException;
 import exceptions.InvalidChoiceException;
+import java.util.*;
 
 public class Main {
   static Scanner sc = new Scanner(System.in);
